@@ -9,5 +9,5 @@ def slicer(*num):
             odds.append(i)
     print("even list : ", evens)
     print("odd list : ", odds)
-slicer(1,2,3,4,5,6,7,8,9,11,12,13,14,15,3456,)
+slicer(1,2,3,4,5,6,7,8,9,11,12,13,14,15,3456)
 
